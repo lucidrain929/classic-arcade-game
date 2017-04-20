@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a ripoff of the game frogger. I took an engine created by someone else and created the game logic and player/enemy movement as well as expanded the engine to include collision detection amount other changes.
+This is a ripoff of the game frogger. I took an engine created by someone else and created the game logic and player/enemy movement as well as expanded the engine to include collision detection amoung other changes.
 
 ## Install
 
